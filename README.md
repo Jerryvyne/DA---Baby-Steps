@@ -1,14 +1,14 @@
 # Assignment Name: Jerryvyne's Baby step-IN-Data Analysis
 
 ---------------------
-#Problem Statement
+# Problem Statement
 
 -------------------
-#Data Sourcing
+# Data Sourcing
 
 ----------------------
-#Data Cleaning
+# Data Cleaning
 
 
 ------------------------
-#Findings and Recommendation
+# Findings and Recommendation
