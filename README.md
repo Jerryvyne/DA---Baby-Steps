@@ -1,4 +1,4 @@
-# Assignment Name: Jerryvyne's Baby step-IN-Data Analysis
+# Assignment Name: DA--Baby-Steps
 
 ---------------------
 # Problem Statement
